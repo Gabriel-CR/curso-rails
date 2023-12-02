@@ -1,0 +1,14 @@
+source "https://rubygems.org"
+
+# X.Y.Z (Major, Minor, Path)
+
+# VERSÃO EXATA
+gem "cpf_utils", "1.3.0"
+
+# VERSÃO MAIOR OU IGUAL
+# gem "cpf_utils", ">=1.3.0"
+
+# VERSÃO PRÓXIMA A, SÓ FICA ENTRE AS VERSÕES 1.x.x, SEMPRE VAI SER MENOR QUE 2.0.0
+# gem "cpf_utils", "~>1.3.0"
+
+gem "faker"
